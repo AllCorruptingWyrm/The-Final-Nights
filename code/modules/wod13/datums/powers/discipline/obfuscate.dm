@@ -158,6 +158,7 @@
 	check_flags = DISC_CHECK_CAPABLE
 
 	toggled = TRUE
+	duration_length = 2 TURNS
 
 	grouped_powers = list(
 		/datum/discipline_power/obfuscate/cloak_of_shadows,
